@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ba493923-b1ce-45ad-8b9f-d1e4bf51b126" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/meta/modelo/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c02oo/ExtendedA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c02oo/Fisherman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c02oo/TK066.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c02oo/TK227.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c02oo/TestDeclare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c02oo/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c03assignments/Alien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c03assignments/Bertha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c03assignments/Bridge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c03assignments/CTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c03assignments/Layout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c03assignments/PrimitiveTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c03assignments/Three.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c04/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c05/Assertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c05/Emu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c05/Infinity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c05/Labeled.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c05/SubException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c05/TK036.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c05/TK240.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c05/TestIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c06/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c06/FormatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c06/Looking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c06/NewConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c06/PasswordExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c06/Regex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c06/RegexSmall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c06/SerchFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c06/StrTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c06/TK032.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c06/TK193.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c06/TestDates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c06/TestNumberFormats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c06/Writer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c07/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c07/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c07/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c07/Ferry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c07/GeoCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c07/Magellan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c07/MapEQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c07/MapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c07/PQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c07/Q01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c07/SearchObjArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c07/SetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c07/TK0159.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c07/TK075.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c07/TK076.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c07/TK194.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c07/TK232.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c07/TK77.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c07/TestWildcards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c07/Travel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c07/TreeMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c08inner/c1regular/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c08inner/c1regular/MyOuter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c08inner/c1regular/Outer4Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c08inner/c2method/AbstractTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c08inner/c2method/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c08inner/c2method/MyOuter2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c08inner/c2method/SubB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c08inner/c3anonymous/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c08inner/c3anonymous/Food2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c08inner/c3anonymous/MyWonderfulClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c08inner/c3anonymous/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c08inner/c4staticnested/Broom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c08inner/c4staticnested/Pockets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c09threads/AccountDanger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c09threads/AccountSynchronized.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c09threads/Chess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c09threads/ChicksYack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c09threads/Computation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c09threads/DeadlockRisk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c09threads/DudesChat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c09threads/Exercise_9_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c09threads/IndustryThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c09threads/Leader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c09threads/ManyNames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c09threads/NameList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c09threads/NameList2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c09threads/Q09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c09threads/Q10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c09threads/Reader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c09threads/Starter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c09threads/SyncTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c09threads/TK258.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c09threads/TestThreads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c09threads/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c09threads/ThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c09threads/TwoThreads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c10develop/Antique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c10develop/StatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c10develop/TK39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c10develop/TestProps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c10develop/TestStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c10develop/TestStaticImport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c1construtor/Foo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c1construtor/SuperExemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c1enums/CafeCompleto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c1enums/CafeCompleto2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c1enums/CoffeeTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c1enums/CoffeeTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c1interface/TestInterface1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c1metodos/AbstrataIlegal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c1metodos/TesteMetodos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c1metodos/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c1vararg/CheckGC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c1vararg/SubExemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c1vararg/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c1vararg/Teste2.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CE5EhRiEdmi1oDgaKjbUGLCrR4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/git/OCJP17/src/main/java/pond&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/git/OCJP17/src/main/java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="br.com.meta.modelo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\git\OCJP17\src\main\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.meta.modelo" />
+      <recent name="c02oo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DeletePath">
+    <configuration name="ArraysMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="c07.ArraysMain" />
+      <module name="OCJP17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="c07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DateTimeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="c07.DateTimeMain" />
+      <module name="OCJP17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="c07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeletePath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="c07.DeletePath" />
+      <module name="OCJP17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="c07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindInMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="c05.FindInMatrix" />
+      <module name="OCJP17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="c05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="c07.StringMain" />
+      <module name="OCJP17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="c07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DeletePath" />
+        <item itemvalue="Application.DateTimeMain" />
+        <item itemvalue="Application.StringMain" />
+        <item itemvalue="Application.ArraysMain" />
+        <item itemvalue="Application.FindInMatrix" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba493923-b1ce-45ad-8b9f-d1e4bf51b126" name="Changes" comment="" />
+      <created>1658354798493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658354798493</updated>
+      <workItem from="1658354802004" duration="6566000" />
+      <workItem from="1658403339649" duration="121000" />
+      <workItem from="1658529440734" duration="3152000" />
+      <workItem from="1658626920250" duration="2526000" />
+      <workItem from="1658677303216" duration="27420000" />
+      <workItem from="1658748486429" duration="602000" />
+      <workItem from="1658785894647" duration="8301000" />
+      <workItem from="1658838525058" duration="23000" />
+      <workItem from="1658958132824" duration="11448000" />
+      <workItem from="1659010485952" duration="478000" />
+      <workItem from="1659057019428" duration="599000" />
+      <workItem from="1659095644143" duration="240000" />
+      <workItem from="1659205881611" duration="744000" />
+      <workItem from="1659291218424" duration="7018000" />
+      <workItem from="1659367156810" duration="2031000" />
+      <workItem from="1659390535282" duration="7963000" />
+      <workItem from="1659441316465" duration="27000" />
+      <workItem from="1659477176987" duration="1326000" />
+      <workItem from="1659527659487" duration="596000" />
+      <workItem from="1659572274913" duration="604000" />
+      <workItem from="1659610474917" duration="1056000" />
+      <workItem from="1659902860926" duration="784000" />
+      <workItem from="1659916594801" duration="1794000" />
+      <workItem from="1659955814979" duration="602000" />
+      <workItem from="1659996443625" duration="8640000" />
+      <workItem from="1660045757038" duration="142000" />
+      <workItem from="1660093516401" duration="236000" />
+      <workItem from="1660166989219" duration="598000" />
+      <workItem from="1660347589591" duration="2129000" />
+      <workItem from="1660427628503" duration="5028000" />
+      <workItem from="1660498120353" duration="730000" />
+      <workItem from="1660512829405" duration="2086000" />
+      <workItem from="1660563627145" duration="463000" />
+      <workItem from="1660597805355" duration="8567000" />
+      <workItem from="1660649565885" duration="595000" />
+      <workItem from="1660665635095" duration="1976000" />
+      <workItem from="1660870439891" duration="5140000" />
+      <workItem from="1660907207851" duration="46000" />
+      <workItem from="1661010429736" duration="7459000" />
+      <workItem from="1661104176527" duration="7136000" />
+      <workItem from="1661167315768" duration="79000" />
+      <workItem from="1661207091783" duration="2601000" />
+      <workItem from="1661254870249" duration="10000" />
+      <workItem from="1661386172745" duration="597000" />
+      <workItem from="1661425751121" duration="597000" />
+      <workItem from="1661477988916" duration="3025000" />
+      <workItem from="1661513775205" duration="18000" />
+      <workItem from="1661564332765" duration="607000" />
+      <workItem from="1661632022312" duration="6579000" />
+      <workItem from="1661730030416" duration="4904000" />
+      <workItem from="1661780509330" duration="12000" />
+      <workItem from="1661815124812" duration="4771000" />
+      <workItem from="1661859856123" duration="9000" />
+      <workItem from="1661898127449" duration="1274000" />
+      <workItem from="1661946406776" duration="65000" />
+      <workItem from="1661993947902" duration="598000" />
+      <workItem from="1662032597944" duration="134000" />
+      <workItem from="1662414843244" duration="610000" />
+      <workItem from="1662464250438" duration="55000" />
+      <workItem from="1662946725757" duration="3129000" />
+      <workItem from="1662983260330" duration="32000" />
+      <workItem from="1663022019817" duration="3089000" />
+      <workItem from="1663070804790" duration="188000" />
+      <workItem from="1663195568455" duration="1198000" />
+      <workItem from="1663242569550" duration="222000" />
+      <workItem from="1663432414189" duration="2577000" />
+      <workItem from="1663518331485" duration="2710000" />
+      <workItem from="1663544139738" duration="1688000" />
+      <workItem from="1663589340666" duration="48000" />
+      <workItem from="1663804920127" duration="597000" />
+      <workItem from="1663848150053" duration="206000" />
+      <workItem from="1664501905012" duration="3422000" />
+      <workItem from="1664538233277" duration="206000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/c07/Ferry.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
