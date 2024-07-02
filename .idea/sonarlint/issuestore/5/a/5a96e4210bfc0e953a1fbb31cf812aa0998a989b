@@ -1,0 +1,51 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸Ï€†
+M
+java:S1854"7Remove this useless assignment to local variable "d23".(•Éª
+Q
+java:S1854"6Remove this useless assignment to local variable "a6".(Õˆ¿‡øÿÿÿÿ
+Q
+java:S1854"6Remove this useless assignment to local variable "a5".(¦¤¨·ûÿÿÿÿ
+>
+java:S1659"#Declare "ints2" on a separate line.(ÿŒ”ûøÿÿÿÿ
+>
+java:S1659	"#Declare "umInt" on a separate line.(İ»âıÿÿÿÿ
+E
+java:S1481"*Remove this unused "ints1" local variable.(ÿŒ”ûøÿÿÿÿ
+E
+java:S1481"*Remove this unused "ints2" local variable.(ÿŒ”ûøÿÿÿÿ
+E
+java:S1197	"*Move the array designators [] to the type.(İ»âıÿÿÿÿ
+J
+java:S1481	"/Remove this unused "variosInts" local variable.(İ»âıÿÿÿÿ
+E
+java:S1481	"*Remove this unused "umInt" local variable.(İ»âıÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(¦¤¨·ûÿÿÿÿ
+B
+java:S1481"'Remove this unused "a5" local variable.(¦¤¨·ûÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(Õˆ¿‡øÿÿÿÿ
+B
+java:S1481"'Remove this unused "a6" local variable.(Õˆ¿‡øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(÷˜
+M	java:S106"9Replace this use of System.out or System.err by a logger.(—Úã-
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¬†ñ‰úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÿğ·¾
+p
+java:S2234"ZParameters to toString have the same names but not the same order as the method arguments.(ÿğ·¾
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ƒİöÚıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÌÁ¨…ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(›ÁÁÿ
+B
+java:S1481"'Remove this unused "d2" local variable.(«¯ÍÍûÿÿÿÿ
+G
+java:S1197",Move the array designators [][] to the type.(³¨úöÿÿÿÿÿ
+C
+java:S1481"(Remove this unused "d22" local variable.(³¨úöÿÿÿÿÿ
+@
+java:S1197"*Move the array designators [] to the type.(•Éª
+>
+java:S1481"(Remove this unused "d23" local variable.(•Éª
+C
+java:S1128"&Remove this unused import 'java.time'.(şÔ¡­8³æãá®0

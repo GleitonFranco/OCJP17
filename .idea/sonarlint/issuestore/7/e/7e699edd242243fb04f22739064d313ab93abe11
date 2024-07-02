@@ -1,0 +1,69 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñª—¶
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸Ï€†
+T
+java:S1854B"?Remove this useless assignment to local variable "temAcabando".(´žùS
+N
+java:S1854+"8Remove this useless assignment to local variable "nulo".(º¸ÔŠ
+U
+java:S1854*":Remove this useless assignment to local variable "deque2".(ÒúÁ¥ýÿÿÿÿ
+P
+java:S1854":Remove this useless assignment to local variable "lista4".(ïË‰¸
+R
+java:S1854"<Remove this useless assignment to local variable "lista3_1".(ñª—¶
+P
+java:S1854":Remove this useless assignment to local variable "lista3".(šª ¬
+S
+java:S1854"=Remove this useless assignment to local variable "isRemoved".(½¡¸ã
+Q
+java:S1854";Remove this useless assignment to local variable "removed".(¾£¯â
+1
+java:S3626E"Remove this redundant jump.(ûÁÝ…
+B
+java:S1481",Remove this unused "removed" local variable.(¾£¯â
+D
+java:S1481".Remove this unused "isRemoved" local variable.(½¡¸ã
+A
+java:S1481"+Remove this unused "lista3" local variable.(šª ¬
+N
+java:S3878"8Remove this array creation and simply pass the elements.(ñª—¶
+C
+java:S1481"-Remove this unused "lista3_1" local variable.(ñª—¶
+A
+java:S1481"+Remove this unused "lista4" local variable.(ïË‰¸
+6
+java:S2129!" Remove this "String" constructor(–¬Ò
+F
+java:S1481*"+Remove this unused "deque2" local variable.(ÒúÁ¥ýÿÿÿÿ
+?
+java:S1481+")Remove this unused "nulo" local variable.(º¸ÔŠ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(«ÍôÚøÿÿÿÿ
+E
+java:S1481B"0Remove this unused "temAcabando" local variable.(´žùS
+S
+java:S1854X"=Remove this useless assignment to local variable "iterator2".(äµÀ
+K
+java:S1854S"5Remove this useless assignment to local variable "l".(Ž±Æ°
+T
+java:S1854Q"9Remove this useless assignment to local variable "array".(Åç³Øúÿÿÿÿ
+N
+java:S1854M"8Remove this useless assignment to local variable "keys".(ŽÝÅ¦
+L
+java:S1854K"6Remove this useless assignment to local variable "p3".(¹Üô×
+=
+java:S1481K"'Remove this unused "p3" local variable.(¹Üô×
+?
+java:S1481M")Remove this unused "keys" local variable.(ŽÝÅ¦
+Q	java:S125P"<This block of commented-out lines of code should be removed.(„Ë–¬
+E
+java:S1481Q"*Remove this unused "array" local variable.(Åç³Øúÿÿÿÿ
+<
+java:S1481S"&Remove this unused "l" local variable.(Ž±Æ°
+D
+java:S1481X".Remove this unused "iterator2" local variable.(äµÀ
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+Q	java:S125Y"<This block of commented-out lines of code should be removed.(ÿ•°ñ
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(¡¹—Òøÿÿÿÿ
+S	java:S106^"9Replace this use of System.out or System.err by a logger.(¡¹—Òøÿÿÿÿ
+S
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ

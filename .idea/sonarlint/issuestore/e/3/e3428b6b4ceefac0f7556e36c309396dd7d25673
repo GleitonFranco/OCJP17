@@ -1,0 +1,10 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(åŸİ±úÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ÍÒâÿÿÿÿÿ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(ÇúªÓşÿÿÿÿ
+P
+java:S1854A":Remove this useless assignment to local variable "result".(ô°“Ş
+m
+java:S6204E"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(áÑ¦Éşÿÿÿÿ
+]
+java:S1659K"BDeclare "right" and all following declarations on a separate line.(ÆÂÓÈùÿÿÿÿ

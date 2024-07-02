@@ -1,0 +1,18 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Éé‰J
+M
+java:S39582"2Refactor the code so this stream pipeline is used.(¤‘±üùÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(½Ó’½
+Q	java:S125"<This block of commented-out lines of code should be removed.(ùòæ´
+[
+java:S18541"@Remove this useless assignment to local variable "lengthMapper".(Ä°´Ëþÿÿÿÿ
+X
+java:S18540"=Remove this useless assignment to local variable "triMapper".(©òÎúÿÿÿÿ
+S
+java:S1612/"=Replace this lambda with method reference 'Product::getName'.(ÞÕÁÔ
+I
+java:S14810".Remove this unused "triMapper" local variable.(©òÎúÿÿÿÿ
+L
+java:S14811"1Remove this unused "lengthMapper" local variable.(Ä°´Ëþÿÿÿÿ
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8ÝÚ¡ª0

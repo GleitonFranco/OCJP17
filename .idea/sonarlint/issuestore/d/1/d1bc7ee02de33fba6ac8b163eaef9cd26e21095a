@@ -1,0 +1,76 @@
+
+J
+java:S37407"/Provide the parametrized type for this generic.(üµ÷¶üÿÿÿÿ
+E
+java:S37408"/Provide the parametrized type for this generic.( Œùô
+E
+java:S37409"/Provide the parametrized type for this generic.(ˆ£¨
+f	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿîë‰
+k	java:S117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—û™éùÿÿÿÿ
+f	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å’¼¥
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(şïÙ
+–
+java:S1186D"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(éÕ¢|
+—
+java:S1186H"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ü»öÂ
+Q	java:S125"<This block of commented-out lines of code should be removed.(®½Ç¿
+o
+java:S1171
+"YMove the contents of this initializer to a standard constructor or to field initializers.(…£ĞŠ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ÔÃğŞ
+V
+java:S1854";Remove this useless assignment to local variable "milhar3".(¯…Šÿüÿÿÿÿ
+V
+java:S1854";Remove this useless assignment to local variable "milhar2".(ƒ¡œıÿÿÿÿ
+P
+java:S1854":Remove this useless assignment to local variable "milhar".(ÂĞµÑ
+P
+java:S1854"5Remove this useless assignment to local variable "l".(¦ÌËÆüÿÿÿÿ
+P
+java:S1854?"5Remove this useless assignment to local variable "a".(ÇŒ„Çøÿÿÿÿ
+K
+java:S1854A"5Remove this useless assignment to local variable "a".(ÀŞ 
+S	java:S106"9Replace this use of System.out or System.err by a logger.(™›¿…ûÿÿÿÿ
+A
+java:S1481"&Remove this unused "l" local variable.(¦ÌËÆüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(áÔÑşÿÿÿÿ
+A
+java:S1481"+Remove this unused "milhar" local variable.(ÂĞµÑ
+G
+java:S1481",Remove this unused "milhar2" local variable.(ƒ¡œıÿÿÿÿ
+G
+java:S1481",Remove this unused "milhar3" local variable.(¯…Šÿüÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(¥‘Ü³
+V	java:S125"<This block of commented-out lines of code should be removed.(Öû¬®ùÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(¤æ¡Ïúÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(ã—¬ã
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(»ş×
+/
+java:S5665,"Use '\"""' to escape """.(¥Ùàà
+C
+java:S5665-"(Remove this unnecessary escape sequence.(ÃÂÑøúÿÿÿÿ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(‘éÈÿıÿÿÿÿ
+<
+java:S14812"&Remove this unused "d" local variable.(àõşı
+?
+java:S14813")Remove this unused "dias" local variable.(æ×÷×
+N
+java:S14814"3Remove this unused "diasDecorridos" local variable.(¦œıÿÿÿÿ
+M
+java:S14815"7Remove this unused "diasDesdeCriaÃ§Ã£o" local variable.(ÿîë‰
+E
+java:S14817"*Remove this unused "lista" local variable.(üµ÷¶üÿÿÿÿ
+A
+java:S14818"+Remove this unused "linhas" local variable.( Œùô
+C
+java:S14819"-Remove this unused "clientes" local variable.(ˆ£¨
+A
+java:S1481="&Remove this unused "a" local variable.(–ÎåÌûÿÿÿÿ
+?
+java:S1197D"*Move the array designators [] to the type.(éÕ¢|
+?
+java:S1197D"*Move the array designators [] to the type.(éÕ¢|
+@
+java:S1197H"*Move the array designators [] to the type.(Ü»öÂ
+@
+java:S1197H"*Move the array designators [] to the type.(Ü»öÂ

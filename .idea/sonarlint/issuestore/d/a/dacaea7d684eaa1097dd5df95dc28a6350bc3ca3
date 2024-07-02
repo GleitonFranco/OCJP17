@@ -1,0 +1,44 @@
+
+V
+java:S2184'"@Cast one of the operands of this addition operation to a "long".(üç«Ü
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(òá—Ğúÿÿÿÿ
+c
+java:S3973["HUse indentation to denote the code conditionally executed by this "for".(ÂÁìûıÿÿÿÿ
+]	java:S125"<This block of commented-out lines of code should be removed.(…£¿çÿÿÿÿÿ8ò‚½´¯0
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8÷‚½´¯0
+S
+java:S5261+"1Add explicit curly braces to avoid dangling else.(­šÉôüÿÿÿÿ8ü‚½´¯0
+T	java:S106*"9Replace this use of System.out or System.err by a logger.(ÜÄ™g8ı‚½´¯0
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(­šÉôüÿÿÿÿ8ÿ‚½´¯0
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(ºÅö8€ƒ½´¯0
+X
+java:S18543";Remove this useless assignment to local variable "integer".(€ì‚­8‚ƒ½´¯0
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(…ù»õ8†ƒ½´¯0
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(§öÔ8ˆƒ½´¯0
+W	java:S1258"<This block of commented-out lines of code should be removed.(İ­ï}8‘ƒ½´¯0
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(Åêµúÿÿÿÿ8•ƒ½´¯0
+U	java:S106>"9Replace this use of System.out or System.err by a logger.(÷¹¼8™ƒ½´¯0
+n
+java:S1871E"LThis branch's code block is the same as the block for the branch on line 67.(ªËÔÚûÿÿÿÿ8®ƒ½´¯0
+J
+java:S1481C"(Remove this unused "bat" local variable.(¶‡±Ğıÿÿÿÿ8¯ƒ½´¯0
+J	java:S108C")Either remove or fill this block of code.(¶‡±Ğıÿÿÿÿ8°ƒ½´¯0
+J	java:S108E")Either remove or fill this block of code.(ªËÔÚûÿÿÿÿ8°ƒ½´¯0
+Z	java:S106K"9Replace this use of System.out or System.err by a logger.(¸¥“¼ùÿÿÿÿ8³ƒ½´¯0
+m	java:S128N"LEnd this switch case with an unconditional break, return or throw statement.(ªëÅŞúÿÿÿÿ8½ƒ½´¯0
+U	java:S106O"9Replace this use of System.out or System.err by a logger.(ºÙ„½8¾ƒ½´¯0
+Z	java:S106Q"9Replace this use of System.out or System.err by a logger.(´ğ«şÿÿÿÿ8¿ƒ½´¯0
+]	java:S125T"<This block of commented-out lines of code should be removed.(³ÈÅÓşÿÿÿÿ8Áƒ½´¯0
+]
+java:S1119[";Refactor the code to remove this label and the need for it.(ÂÁìûıÿÿÿÿ8Âƒ½´¯0
+;
+java:S1065["Remove this unused label.(ÂÁìûıÿÿÿÿ8Âƒ½´¯0
+X
+java:S1119\";Refactor the code to remove this label and the need for it.(­¶ú‚8Ãƒ½´¯0
+6
+java:S1065\"Remove this unused label.(­¶ú‚8Äƒ½´¯0
+Z	java:S106a"9Replace this use of System.out or System.err by a logger.(³ğ¸ûÿÿÿÿ8Æƒ½´¯0
+<
+java:S1659f"Declare "m" on a separate line.(—ì‘é8Éƒ½´¯0
+U	java:S106l"9Replace this use of System.out or System.err by a logger.(ÿş«Ä8Ëƒ½´¯0
+]	java:S125n"<This block of commented-out lines of code should be removed.(ûîşíøÿÿÿÿ8Ëƒ½´¯0
