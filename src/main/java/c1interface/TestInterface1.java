@@ -7,11 +7,11 @@ public interface TestInterface1 { // implicitamente abstratas (declaracao explic
 	void met_declarado_nao_redundante();//Ends with a semicolon rather than curly braces
 
 	// Because interface methods are abstract, they cannot be marked final, strictfp, or native
-//	static void metodo_ilegal1();
-//	final void metodo_ilegal2();
-//	native void metodo_ilegal3();
-//	strictfp void metodo_ilegal4();
-	
+//	static void metodo_ilegal1(); // NÃO!
+//	final void metodo_ilegal2(); // NÃO!
+//	native void metodo_ilegal3(); // NÃO!
+//	strictfp void metodo_ilegal4(); // NÃO!
+
 //	private void bounce(); // interface methods are always public
 //	protected void bounce();// interface methods are always public
 }

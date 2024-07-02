@@ -13,6 +13,7 @@ public class CoffeeTest1 { //nome do arquivo .java leva o nome da classe públic
 	public static void main(String[] args) {
 		Coffee drink = new Coffee();
 		drink.size = CoffeeSize.BIG;
+		System.out.println(CoffeeSize.BIG.compareTo(CoffeeSize.HUGE));
 		//enum outside class
 	}
 }

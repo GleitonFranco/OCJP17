@@ -12,6 +12,9 @@ public class TesteMetodos implements TestInterface1 {
 	// only to methods
 	
 	public strictfp void calculo() { }
+	// only to methods
+	// forces floating points (and any floating-point operations) to
+	// adhere to the IEEE 754 standard
 
 	@Override
 	public void met_declarado_redundante() {
@@ -22,9 +25,5 @@ public class TesteMetodos implements TestInterface1 {
 	public void met_declarado_nao_redundante() {
 
 	}
-	// only to methods
-	// forces floating points (and any floating-point operations) to
-	// adhere to the IEEE 754 standard
-	
-	
+
 }

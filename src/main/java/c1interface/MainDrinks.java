@@ -10,6 +10,7 @@ public class MainDrinks {
         Drink drink = new Drink(1);
         System.out.println(drink.measure());
         drink.prepare();
+        System.out.println("===============================");
 
         Z z = new Z();
         z.toString(); // tudo estende Object
@@ -22,7 +23,6 @@ public class MainDrinks {
         new Some<Z>() {
 
         };
-
 
         Product[] ps = new Product[3];
         Product produtos[] = new Product[3];
@@ -64,13 +64,16 @@ public class MainDrinks {
         int sum = 0;
         for (int i =0; i < values.length; sum += ++i);
         System.out.println(sum);
+        System.out.println(System.getProperty("java.vm.vendor"));
     }
 }
+
 
 interface Consumable {
     static int measure() {
         return 12;
     }
+
     void consume(int quantity);
 
     default void prepare() {
@@ -121,7 +124,7 @@ class Z implements Y {
     }
 }
 
-
+//class Some <T extends Y> {
 class Some <T> {
 
 }

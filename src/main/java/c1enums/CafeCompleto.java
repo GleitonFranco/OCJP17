@@ -1,7 +1,12 @@
 package c1enums;
 
+
 enum CafeSize {
-	MEDIO(50),GRANDE(100),MUITO_GRANDE(200),REALMENTE_OFENSIVO(1000);
+	MEDIO(50)
+//			{
+//				public int cafeina() {return 5;}
+//			}
+	,GRANDE(100),MUITO_GRANDE(200),REALMENTE_OFENSIVO(1000);
 	// You can define more than one argument to the constructor, 
 	// and you can overload the enum constructors
 	CafeSize(int mls) {
@@ -11,6 +16,7 @@ enum CafeSize {
 	public int getMls() {
 		return mls;
 	}
+//	public abstract int cafeina(); // métodos abstratos precisam ser implementados em todos os itens do enum.
 }
 
 public class CafeCompleto {

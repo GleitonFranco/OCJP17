@@ -2,10 +2,11 @@ package c1construtor;
 
 public class Foo {
 	protected Foo() {
-		// construtor
+//		 construtor
 	}
 //  outros contrutores legais	
 //	private Foo() { }
+	// overloaded costructors... PODE
 //	Foo(int x) { }
 //	Foo(int x, int... y) { }
 	
@@ -14,7 +15,7 @@ public class Foo {
 	}
 	
 //	construtores ILEGAIS
-//	Form() { }
+//	Fooo() { }
 //	Foo();
 //	static Foo() { }
 //	final Foo() { }

@@ -8,10 +8,12 @@ import java.io.Serializable;
 public class Dog implements Serializable {
 	transient private Collar theCollar; // we can't serialize this
 	private int dogSize;
+
 	public Dog(Collar collar, int size) {
 		theCollar = collar;
 		dogSize = size;
 	}
+
 	public Collar getCollar() { return theCollar; }
 	private void writeObject(ObjectOutputStream os) {
 		// throws IOException {

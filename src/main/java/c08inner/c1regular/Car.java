@@ -2,6 +2,10 @@ package c08inner.c1regular;
 
 public class Car {
 
+	static class Cambio {
+		static int marchas = 6;
+	}
+
 	class Engine {
 		// insert code here
 	}
@@ -9,6 +13,8 @@ public class Car {
 	public static void main(String[] args) {
 		new Car().go();
 		var inner2 = new MyOuter().new MyInner();
+		var c = new Cambio();
+//		c.marchas;
 	}
 
 	void go() {
