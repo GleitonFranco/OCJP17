@@ -5,167 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba493923-b1ce-45ad-8b9f-d1e4bf51b126" name="Changes" comment="v 17">
-      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c06_17/Flamingo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c09_17/Filas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c09_17/Listas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/meta/modelo/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/meta/modelo/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/meta/modelo/Contato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/meta/modelo/Contato.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/meta/modelo/Email.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/meta/modelo/Email.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/meta/modelo/Endereco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/meta/modelo/Endereco.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/meta/modelo/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/meta/modelo/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/meta/modelo/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/meta/modelo/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/meta/modelo/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/meta/modelo/Pedido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/meta/modelo/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/meta/modelo/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/meta/modelo/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/meta/modelo/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/meta/modelo/Telefone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/meta/modelo/Telefone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c02oo/AbstrataA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c02oo/AbstrataA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c02oo/AbstrataMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c02oo/AbstrataMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c02oo/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c02oo/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c02oo/ConcretoB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c02oo/ConcretoB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c02oo/Drink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c02oo/Drink.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c02oo/ExtendedA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c02oo/ExtendedA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c02oo/Fisherman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c02oo/Fisherman.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c02oo/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c02oo/Food.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c02oo/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c02oo/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c02oo/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c02oo/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c02oo/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c02oo/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c02oo/ProdutoMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c02oo/ProdutoMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c02oo/TK066.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c02oo/TK066.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c02oo/TK227.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c02oo/TK227.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c02oo/TestDeclare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c02oo/TestDeclare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c02oo/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c02oo/Tester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c03assignments/Alien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c03assignments/Alien.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c03assignments/Bertha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c03assignments/Bertha.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c03assignments/Bridge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c03assignments/Bridge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c03assignments/CTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c03assignments/CTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c03assignments/Layout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c03assignments/Layout.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c03assignments/PrimitiveTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c03assignments/PrimitiveTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c03assignments/Three.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c03assignments/Three.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c04/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c04/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c05/Assertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c05/Assertion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c05/Emu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c05/Emu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c05/FindInMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c05/FindInMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c05/Infinity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c05/Infinity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c05/Labeled.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c05/Labeled.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c05/SubException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c05/SubException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c05/TK036.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c05/TK036.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c05/TK240.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c05/TK240.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c05/TestIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c05/TestIf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c06/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c06/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c06/FormatTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c06/FormatTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c06/Looking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c06/Looking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c06/NewConsole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c06/NewConsole.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c06/PasswordExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c06/PasswordExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c06/Regex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c06/Regex2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c06/RegexSmall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c06/RegexSmall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c06/SerchFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c06/SerchFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c06/StrTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c06/StrTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c06/TK032.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c06/TK032.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c06/TK193.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c06/TK193.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c06/TestDates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c06/TestDates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c06/TestNumberFormats.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c06/TestNumberFormats.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c06/Writer2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c06/Writer2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c07/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c07/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c07/ArraysMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c07/ArraysMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c07/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c07/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c07/CollectionMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c07/CollectionMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c07/DateTimeMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c07/DateTimeMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c07/DeletePath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c07/DeletePath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c07/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c07/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c07/Ferry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c07/Ferry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c07/GeoCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c07/GeoCache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c07/Magellan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c07/Magellan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c07/MapEQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c07/MapEQ.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c07/MapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c07/MapTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c07/PQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c07/PQ.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c07/Q01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c07/Q01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c07/SearchObjArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c07/SearchObjArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c07/SetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c07/SetTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c07/StringMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c07/StringMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c07/TK0159.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c07/TK0159.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c07/TK075.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c07/TK075.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c07/TK076.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c07/TK076.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c07/TK194.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c07/TK194.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c07/TK232.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c07/TK232.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c07/TK77.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c07/TK77.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c07/TestWildcards.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c07/TestWildcards.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c07/Travel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c07/Travel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c07/TreeMapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c07/TreeMapTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c08inner/c1regular/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c08inner/c1regular/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c08inner/c1regular/MyOuter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c08inner/c1regular/MyOuter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c08inner/c1regular/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c08inner/c1regular/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c08inner/c1regular/Outer4Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c08inner/c1regular/Outer4Example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c08inner/c1regular/Outer5Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c08inner/c1regular/Outer5Example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c08inner/c2method/AbstractTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c08inner/c2method/AbstractTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c08inner/c2method/City.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c08inner/c2method/City.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c08inner/c2method/MyOuter2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c08inner/c2method/MyOuter2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c08inner/c2method/SubB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c08inner/c2method/SubB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c08inner/c3anonymous/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c08inner/c3anonymous/Food.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c08inner/c3anonymous/Food2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c08inner/c3anonymous/Food2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c08inner/c3anonymous/MyWonderfulClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c08inner/c3anonymous/MyWonderfulClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c08inner/c3anonymous/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c08inner/c3anonymous/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c08inner/c4staticnested/Broom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c08inner/c4staticnested/Broom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c08inner/c4staticnested/Pockets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c08inner/c4staticnested/Pockets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c08inner/functional/FuncInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c08inner/functional/FuncInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c09threads/AccountDanger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c09threads/AccountDanger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c09threads/AccountSynchronized.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c09threads/AccountSynchronized.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c09threads/Chess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c09threads/Chess.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c09threads/ChicksYack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c09threads/ChicksYack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c09threads/Computation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c09threads/Computation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c09threads/DeadlockRisk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c09threads/DeadlockRisk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c09threads/DudesChat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c09threads/DudesChat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c09threads/Exercise_9_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c09threads/Exercise_9_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c09threads/IndustryThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c09threads/IndustryThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c09threads/Leader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c09threads/Leader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c09threads/ManyNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c09threads/ManyNames.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c09threads/NameList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c09threads/NameList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c09threads/NameList2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c09threads/NameList2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c09threads/Q09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c09threads/Q09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c09threads/Q10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c09threads/Q10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c09threads/Reader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c09threads/Reader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c09threads/Starter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c09threads/Starter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c09threads/SyncTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c09threads/SyncTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c09threads/TK258.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c09threads/TK258.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c09threads/TestThreads.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c09threads/TestThreads.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c09threads/ThreadA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c09threads/ThreadA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c09threads/ThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c09threads/ThreadDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c09threads/TwoThreads.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c09threads/TwoThreads.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c10develop/Antique.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c10develop/Antique.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c10develop/ExemploLoggerManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c10develop/ExemploLoggerManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c10develop/ExemploLogging.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c10develop/ExemploLogging.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c10develop/StatTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c10develop/StatTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c10develop/TK39.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c10develop/TK39.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c10develop/TestProps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c10develop/TestProps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c10develop/TestStatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c10develop/TestStatic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c10develop/TestStaticImport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c10develop/TestStaticImport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c12streams/MainStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c12streams/MainStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c12streams/ZerosTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c12streams/ZerosTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c1construtor/Foo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c1construtor/Foo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c1construtor/SuperExemplo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c1construtor/SuperExemplo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c1construtor/Swan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c1construtor/Swan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c1enums/CafeCompleto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c1enums/CafeCompleto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c1enums/CafeCompleto2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c1enums/CafeCompleto2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c1enums/CoffeeTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c1enums/CoffeeTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c1enums/CoffeeTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c1enums/CoffeeTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c1interface/MainDrinks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c1interface/MainDrinks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c1interface/TestInterface1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c1interface/TestInterface1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c1metodos/AbstrataIlegal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c1metodos/AbstrataIlegal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c1metodos/TesteMetodos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c1metodos/TesteMetodos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c1metodos/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c1metodos/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c1vararg/CheckGC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c1vararg/CheckGC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c1vararg/SubExemplo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c1vararg/SubExemplo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c1vararg/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c1vararg/Teste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/c1vararg/Teste2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c1vararg/Teste2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pond/duck/GooseWatcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pond/duck/GooseWatcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pond/goose/Goose.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pond/goose/Goose.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pond/goose/Gosling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pond/goose/Gosling.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pond/inland/BirdWatcherFromAfar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pond/inland/BirdWatcherFromAfar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pond/shore/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pond/shore/Bird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pond/shore/BirdWatcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pond/shore/BirdWatcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pondj/swan/Swan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pondj/swan/Swan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tree/TreeMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tree/TreeMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/c07_17/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/c07_17/Animal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,8 +22,9 @@
       <list>
         <option value="module-info" />
         <option value="Enum" />
-        <option value="Record" />
         <option value="Interface" />
+        <option value="package-info" />
+        <option value="Record" />
         <option value="Class" />
       </list>
     </option>
@@ -198,41 +44,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.A9.executor": "Run",
-    "Application.A99.executor": "Run",
-    "Application.Adventure.executor": "Run",
-    "Application.Bear.executor": "Run",
-    "Application.CafeCompleto2.executor": "Run",
-    "Application.Capybara.executor": "Run",
-    "Application.CoffeeTest1.executor": "Debug",
-    "Application.Dog.executor": "Run",
-    "Application.InnerArea.executor": "Run",
-    "Application.MainDrinks.executor": "Debug",
-    "Application.PolimorfismoInfinito.executor": "Debug",
-    "Application.TesteHeranca (1).executor": "Run",
-    "Application.TesteHeranca (2).executor": "Run",
-    "Application.TesteHeranca.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/gleiton/git/OCJP17",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "ruby.rails.projectView.checked": "true",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.A9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A99.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Adventure.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bear.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CafeCompleto2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Capybara.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClELambdaEMethRef.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CoffeeTest1.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ConstrutorExemplo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Deques.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Dog.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InnerArea.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Listas.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.MainDrinks.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Mapa.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.OperacoesMain.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.OperationsMain.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.PolimorfismoInfinito.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Sets.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TesteHeranca (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.TesteHeranca (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.TesteHeranca.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/gleiton/git/OCJP17&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;ruby.rails.projectView.checked&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.Java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="br.com.meta.modelo" />
@@ -240,12 +94,15 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\git\OCJP17\src\main\java" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="br.com.meta.modelo" />
       <recent name="c02oo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Dog">
+  <component name="RunManager" selected="Application.Deques">
     <configuration default="true" type="Babashka" factoryName="BabashkaLocalRepl" activateToolWindowBeforeRun="false">
       <setting name="displayName" value="" />
       <setting name="bbPath" value="" />
@@ -321,12 +178,12 @@
       <option name="inputIsFile" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="A9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="c07_17.A9" />
+    <configuration name="Adventure" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="adventure.Adventure" />
       <module name="OCJP17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="c07_17.*" />
+          <option name="PATTERN" value="adventure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -334,12 +191,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A99" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="c07_17.A99" />
+    <configuration name="Deques" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="c09_17.Deques" />
       <module name="OCJP17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="c07_17.*" />
+          <option name="PATTERN" value="c09_17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -347,12 +204,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="c07.Dog" />
+    <configuration name="Listas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="c09_17.Listas" />
       <module name="OCJP17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="c07.*" />
+          <option name="PATTERN" value="c09_17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -360,12 +217,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PolimorfismoInfinito" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="c07_17.PolimorfismoInfinito" />
+    <configuration name="Mapa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="c09_17.Mapa" />
       <module name="OCJP17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="c07_17.*" />
+          <option name="PATTERN" value="c09_17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -373,12 +230,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteHeranca (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="c07_17.TesteHeranca" />
+    <configuration name="Sets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="c09_17.Sets" />
       <module name="OCJP17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="c07_17.*" />
+          <option name="PATTERN" value="c09_17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -386,47 +243,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteHeranca (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="c07_17.TesteHeranca" />
-      <module name="OCJP17" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="c07_17.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TesteHeranca" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="c07_17.TesteHeranca" />
-      <module name="OCJP17" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="c07_17.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <list>
+      <item itemvalue="Application.Adventure" />
+      <item itemvalue="Application.Deques" />
+      <item itemvalue="Application.Mapa" />
+      <item itemvalue="Application.Sets" />
+      <item itemvalue="Application.Listas" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Dog" />
-        <item itemvalue="Application.A99" />
-        <item itemvalue="Application.A9" />
-        <item itemvalue="Application.PolimorfismoInfinito" />
-        <item itemvalue="Application.TesteHeranca" />
+        <item itemvalue="Application.Deques" />
+        <item itemvalue="Application.Adventure" />
+        <item itemvalue="Application.Mapa" />
+        <item itemvalue="Application.Sets" />
+        <item itemvalue="Application.Listas" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
       </set>
     </attachedChunks>
   </component>
@@ -571,6 +409,36 @@
       <workItem from="1719250163177" duration="7245000" />
       <workItem from="1719667439921" duration="1282000" />
       <workItem from="1719754068729" duration="10048000" />
+      <workItem from="1720295941297" duration="2736000" />
+      <workItem from="1720399901539" duration="1540000" />
+      <workItem from="1720484337233" duration="1835000" />
+      <workItem from="1720643992045" duration="2075000" />
+      <workItem from="1720725477069" duration="5883000" />
+      <workItem from="1720747465825" duration="1814000" />
+      <workItem from="1721080684608" duration="751000" />
+      <workItem from="1721427289581" duration="4902000" />
+      <workItem from="1721477784099" duration="10643000" />
+      <workItem from="1721608002928" duration="3182000" />
+      <workItem from="1721651722802" duration="34227000" />
+      <workItem from="1721734770558" duration="16175000" />
+      <workItem from="1721755749467" duration="67000" />
+      <workItem from="1721762505788" duration="15530000" />
+      <workItem from="1721785001286" duration="3588000" />
+      <workItem from="1721821307939" duration="9187000" />
+      <workItem from="1722010730164" duration="4608000" />
+      <workItem from="1722088549503" duration="24803000" />
+      <workItem from="1722181766953" duration="3379000" />
+      <workItem from="1722251350899" duration="18718000" />
+      <workItem from="1722357711953" duration="1204000" />
+      <workItem from="1722378468132" duration="619000" />
+      <workItem from="1722512409328" duration="4302000" />
+      <workItem from="1722699352810" duration="4637000" />
+      <workItem from="1722728635513" duration="4559000" />
+      <workItem from="1722782756042" duration="2467000" />
+      <workItem from="1722861356727" duration="3138000" />
+      <workItem from="1722903411554" duration="3997000" />
+      <workItem from="1722962836863" duration="2975000" />
+      <workItem from="1723130654242" duration="618000" />
     </task>
     <task id="LOCAL-00001" summary="v 17">
       <created>1666733316992</created>
